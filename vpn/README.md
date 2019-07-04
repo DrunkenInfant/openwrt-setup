@@ -10,6 +10,13 @@
 
 ## Configure new vpn
 
+Reference: [OpenVPN reference](https://openvpn.net/community-resources/reference-manual-for-openvpn-2-4/)
+Guides:
+ * http://www.linuxhorizon.ro/iproute2.html
+ * https://openwrt.org/docs/guide-user/services/vpn/openvpn/client
+ * https://serverfault.com/questions/144048/linux-port-based-routing-using-iptables-ip-route
+ * https://medium.com/@ingamedeo/openvpn-splittunneling-on-openwrt-e4302a1a4e12
+
 ### Prepare
 
 Add openvpn configuration to `/etc/openvpn/<name>/`.
